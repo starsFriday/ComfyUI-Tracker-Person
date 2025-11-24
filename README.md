@@ -1,4 +1,4 @@
-# ComfyUI-Yolo-Person-Tracker
+# ComfyUI-Tracker-Person
 
 A custom node for **ComfyUI** that uses **YOLO (v8/v11)** Instance Segmentation to track specific people in video frames. It generates high-quality tracking masks and visualized overlays.  
 Unlike simple object detection, this tracker uses **Color Histogram Re-Identification** to maintain a lock on a specific person even if they are temporarily occluded or the camera cuts, provided their appearance remains similar.  
