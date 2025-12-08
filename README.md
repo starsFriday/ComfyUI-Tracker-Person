@@ -31,7 +31,7 @@ Navigate to your **ComfyUI custom_nodes** directory and clone this repo:
 
 ```bash
 cd /path/to/ComfyUI/custom_nodes/
-git clone https://github.com/YourUsername/ComfyUI-Yolo-Person-Tracker.git
+git clone https://github.com/starsFriday/ComfyUI-Tracker-Person.git
 
 
 ```
